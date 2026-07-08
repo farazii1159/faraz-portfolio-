@@ -30,7 +30,7 @@ This site serves as a central hub for my journey as an aspiring DevOps Engineer.
 ## 🌐 Connect With Me
 ● **GitHub:** [https://github.com/farazii1159](https://github.com/farazii1159)
 
-● **LinkedIn:** [ttps://www.linkedin.com/in/faraz-shabbir-5a9227344/]
+● **LinkedIn:** [www.linkedin.com/in/faraz-shabbir-5a9227344/]
 
 ---
 *Built with passion and intent by Faraz Shabbir.*
