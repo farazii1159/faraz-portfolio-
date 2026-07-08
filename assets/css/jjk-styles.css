@@ -207,6 +207,9 @@ img { max-width: 100%; height: auto; display: block; }
     -webkit-backdrop-filter: none !important;
     border-left: none;
     /*border-left: 1px solid rgba(59, 130, 246, 0.18);*/
+    
+    /* 2. IMPORTANT: This brings the menu to the absolute front */
+    z-index: 9999 !important;
     transition: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   }
 }
