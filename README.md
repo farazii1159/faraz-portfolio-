@@ -32,6 +32,7 @@ This site serves as a central hub for my journey as an aspiring DevOps Engineer.
 
 ● **LinkedIn:** [www.linkedin.com/in/faraz-shabbir-5a9227344/]
 
+
 ---
 *Built with passion and intent by Faraz Shabbir.*
 
