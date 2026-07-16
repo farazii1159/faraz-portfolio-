@@ -5,7 +5,7 @@ Welcome to my personal portfolio website. This project showcases my professional
 > 🌐 **Live Site:** [https://farazii1159.github.io/faraz-portfolio-/](https://farazii1159.github.io/faraz-portfolio-/)
 
 > **For Local Live Site:**
-Install Live Server then click the (go live) from the right corner bottom of VS code it redirects to http://127.0.0.1:5500/ Link.
+[Install Live Server then click the (go live) from the right corner bottom of VS code it redirects to] http://127.0.0.1:5500/ Link.
 
 ---
 
