@@ -7,6 +7,7 @@ Welcome to my personal portfolio website. This project showcases my professional
 > **For Local Live Site:**
 [Install Live Server Extension From VScode then click the (go live) from the right corner bottom of VScode it redirects to] http://127.0.0.1:5500/.
 
+
 ---
 
 ## 🛠️ Technical Skills
