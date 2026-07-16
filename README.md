@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website. This project showcases my professional experience, skills, and projects as a Aspiring DevOps Engineer.
 
-> 🌐 **Live Site:** [https://farazii1159.github.io/Faraz-Portfolio-/](https://farazii1159.github.io/Faraz-Portfolio-/)
+> 🌐 **Live Site:** [https://farazii1159.github.io/faraz-portfolio-/](https://farazii1159.github.io/faraz-portfolio-/)
 
 ---
 
